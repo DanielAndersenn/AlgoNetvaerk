@@ -40,7 +40,8 @@ public class closeFriends {
             relationsArray[y][x] = 1;
             str2 = input.readLine();
         }
- 
+        
+        //Testlinje
          
         String[] split2 = str3.split(" ");
         venskaber = new int[split2.length];
